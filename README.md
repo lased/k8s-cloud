@@ -28,6 +28,14 @@ provider_installation {
 }
 ```
 
-Примечание
+5. Инициализация, планирование и релиз изменений
+
+```bash
+terraform init
+terraform plan
+terraform apply
+```
+
+# Примечание
 
 - документация - https://terraform-provider.yandexcloud.net/resources/vpc_subnet.html
